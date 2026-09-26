@@ -54,7 +54,7 @@
 | Projeto | Descrição |
 | --- | --- |
 | [TrabaIA](https://github.com/luizfelipee7/TrabaIA) | Projeto relacionado a IA e tecnologia, alinhado ao meu foco atual de estudos. |
-| [SteamCoverSync](https://github.com/luizfelipee7/SteamCoverSync) | Projeto para praticar automação, organização e desenvolvimento de soluções úteis. |
+| [SteamCoverSync](https://github.com/luizfelipee7/SteamCoverSync-Downloads) | Projeto para praticar automação, organização e desenvolvimento de soluções úteis. |
 | [ReactJS-organo](https://github.com/luizfelipee7/ReactJS-organo) | Projeto com React para evolução em desenvolvimento front-end. |
 | [HTML-CSS](https://github.com/luizfelipee7/HTML-CSS) | Repositório de estudos e prática com HTML e CSS. |
 
